@@ -1,0 +1,10 @@
+E:\code\help-manager\service\code\DrugControlBusiness\bin\Release\DrugControlBusiness.dll
+E:\code\help-manager\service\code\DrugControlBusiness\bin\Release\DrugControlBusiness.pdb
+E:\code\help-manager\service\code\DrugControlBusiness\bin\Release\CMHL.Entity.dll
+E:\code\help-manager\service\code\DrugControlBusiness\bin\Release\CMHL.Lawer.dll
+E:\code\help-manager\service\code\DrugControlBusiness\bin\Release\Newtonsoft.Json.dll
+E:\code\help-manager\service\code\DrugControlBusiness\bin\Release\CMHL.Entity.pdb
+E:\code\help-manager\service\code\DrugControlBusiness\bin\Release\CMHL.Lawer.pdb
+E:\code\help-manager\service\code\DrugControlBusiness\obj\Release\DrugControlBusiness.csprojResolveAssemblyReference.cache
+E:\code\help-manager\service\code\DrugControlBusiness\obj\Release\DrugControlBusiness.dll
+E:\code\help-manager\service\code\DrugControlBusiness\obj\Release\DrugControlBusiness.pdb

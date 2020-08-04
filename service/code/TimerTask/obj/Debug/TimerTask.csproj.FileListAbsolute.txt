@@ -1,0 +1,8 @@
+E:\code\help-manager\service\code\TimerTask\bin\Debug\TimerTask.exe.config
+E:\code\help-manager\service\code\TimerTask\bin\Debug\TimerTask.exe
+E:\code\help-manager\service\code\TimerTask\bin\Debug\TimerTask.pdb
+E:\code\help-manager\service\code\TimerTask\obj\Debug\CMHL.TimerTask.ProjectInstaller.resources
+E:\code\help-manager\service\code\TimerTask\obj\Debug\TimerTask.csproj.GenerateResource.Cache
+E:\code\help-manager\service\code\TimerTask\obj\Debug\TimerTask.exe
+E:\code\help-manager\service\code\TimerTask\obj\Debug\TimerTask.pdb
+E:\code\help-manager\service\code\TimerTask\obj\Debug\TimerTask.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+E:\code\help-manager\service\code\CMHL_Entity\bin\Release\CMHL.Entity.dll
+E:\code\help-manager\service\code\CMHL_Entity\bin\Release\CMHL.Entity.pdb
+E:\code\help-manager\service\code\CMHL_Entity\obj\Release\CMHL.Entity.dll
+E:\code\help-manager\service\code\CMHL_Entity\obj\Release\CMHL.Entity.pdb

@@ -1,0 +1,5 @@
+E:\code\help-manager\service\code\CMHL_Entity\bin\Debug\CMHL.Entity.dll
+E:\code\help-manager\service\code\CMHL_Entity\bin\Debug\CMHL.Entity.pdb
+E:\code\help-manager\service\code\CMHL_Entity\obj\Debug\CMHL.Entity.dll
+E:\code\help-manager\service\code\CMHL_Entity\obj\Debug\CMHL.Entity.pdb
+E:\code\help-manager\service\code\CMHL_Entity\obj\Debug\CMHL.Entity.csprojResolveAssemblyReference.cache

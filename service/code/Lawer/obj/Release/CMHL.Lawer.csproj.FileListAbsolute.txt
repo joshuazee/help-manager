@@ -1,0 +1,9 @@
+E:\code\help-manager\service\code\Lawer\bin\Release\CMHL.Lawer.dll
+E:\code\help-manager\service\code\Lawer\bin\Release\CMHL.Lawer.pdb
+E:\code\help-manager\service\code\Lawer\bin\Release\CMHL.Entity.dll
+E:\code\help-manager\service\code\Lawer\bin\Release\Newtonsoft.Json.dll
+E:\code\help-manager\service\code\Lawer\bin\Release\System.Net.Http.dll
+E:\code\help-manager\service\code\Lawer\bin\Release\CMHL.Entity.pdb
+E:\code\help-manager\service\code\Lawer\obj\Release\CMHL.Lawer.csprojResolveAssemblyReference.cache
+E:\code\help-manager\service\code\Lawer\obj\Release\CMHL.Lawer.dll
+E:\code\help-manager\service\code\Lawer\obj\Release\CMHL.Lawer.pdb

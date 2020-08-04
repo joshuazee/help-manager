@@ -1,0 +1,7 @@
+E:\code\help-manager\service\code\TimerTask\bin\Release\TimerTask.exe.config
+E:\code\help-manager\service\code\TimerTask\bin\Release\TimerTask.exe
+E:\code\help-manager\service\code\TimerTask\bin\Release\TimerTask.pdb
+E:\code\help-manager\service\code\TimerTask\obj\Release\CMHL.TimerTask.ProjectInstaller.resources
+E:\code\help-manager\service\code\TimerTask\obj\Release\TimerTask.csproj.GenerateResource.Cache
+E:\code\help-manager\service\code\TimerTask\obj\Release\TimerTask.exe
+E:\code\help-manager\service\code\TimerTask\obj\Release\TimerTask.pdb

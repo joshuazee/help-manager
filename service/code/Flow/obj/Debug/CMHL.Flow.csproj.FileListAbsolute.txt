@@ -1,0 +1,10 @@
+E:\code\help-manager\service\code\Flow\bin\Debug\CMHL.Flow.dll
+E:\code\help-manager\service\code\Flow\bin\Debug\CMHL.Flow.pdb
+E:\code\help-manager\service\code\Flow\bin\Debug\CMHL.Lawer.dll
+E:\code\help-manager\service\code\Flow\bin\Debug\CMHL.Entity.dll
+E:\code\help-manager\service\code\Flow\bin\Debug\Newtonsoft.Json.dll
+E:\code\help-manager\service\code\Flow\bin\Debug\CMHL.Lawer.pdb
+E:\code\help-manager\service\code\Flow\bin\Debug\CMHL.Entity.pdb
+E:\code\help-manager\service\code\Flow\obj\Debug\CMHL.Flow.csprojResolveAssemblyReference.cache
+E:\code\help-manager\service\code\Flow\obj\Debug\CMHL.Flow.dll
+E:\code\help-manager\service\code\Flow\obj\Debug\CMHL.Flow.pdb
