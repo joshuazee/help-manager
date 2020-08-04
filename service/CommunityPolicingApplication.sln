@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMHL.Lawer", "code\Lawer\CMHL.Lawer.csproj", "{A0449823-D79B-4D5A-94B3-32F7D51B88CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMHL.Base", "code\Base\CMHL.Base.csproj", "{1075D7CA-B773-462A-BE9C-EADB7D273D69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMHL.Flow", "code\Flow\CMHL.Flow.csproj", "{DB20D850-EB84-480D-9F7F-C7BCF7A32E90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrugControlBusiness", "code\DrugControlBusiness\DrugControlBusiness.csproj", "{93CF4B15-3D77-4986-AE18-B0BE0BB00A59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMHL.Entity", "code\CMHL_Entity\CMHL.Entity.csproj", "{BF99A436-74E1-4CB2-9BCD-19366DCA4819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerTask", "code\TimerTask\TimerTask.csproj", "{A3D5D1E0-5562-4156-A263-5EB2E1C7A7EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0449823-D79B-4D5A-94B3-32F7D51B88CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0449823-D79B-4D5A-94B3-32F7D51B88CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0449823-D79B-4D5A-94B3-32F7D51B88CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0449823-D79B-4D5A-94B3-32F7D51B88CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1075D7CA-B773-462A-BE9C-EADB7D273D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1075D7CA-B773-462A-BE9C-EADB7D273D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1075D7CA-B773-462A-BE9C-EADB7D273D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1075D7CA-B773-462A-BE9C-EADB7D273D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB20D850-EB84-480D-9F7F-C7BCF7A32E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB20D850-EB84-480D-9F7F-C7BCF7A32E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB20D850-EB84-480D-9F7F-C7BCF7A32E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB20D850-EB84-480D-9F7F-C7BCF7A32E90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93CF4B15-3D77-4986-AE18-B0BE0BB00A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CF4B15-3D77-4986-AE18-B0BE0BB00A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CF4B15-3D77-4986-AE18-B0BE0BB00A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CF4B15-3D77-4986-AE18-B0BE0BB00A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF99A436-74E1-4CB2-9BCD-19366DCA4819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF99A436-74E1-4CB2-9BCD-19366DCA4819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF99A436-74E1-4CB2-9BCD-19366DCA4819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF99A436-74E1-4CB2-9BCD-19366DCA4819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D5D1E0-5562-4156-A263-5EB2E1C7A7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D5D1E0-5562-4156-A263-5EB2E1C7A7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D5D1E0-5562-4156-A263-5EB2E1C7A7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D5D1E0-5562-4156-A263-5EB2E1C7A7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
