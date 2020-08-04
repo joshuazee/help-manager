@@ -1,0 +1,16 @@
+{
+  "system_title": "\"帮管通\"平台管理系统",
+  "system_title_center": "荆州市禁毒办",
+  "system_title_login_up":"帮管通平台管理系统",
+  "system_title_login_inside":"Help Manager",
+  "system_right_first_row":"技术支持: 荆州市禁毒委员会办公室",
+  "system_right_second_row":"0716 - 8011635",
+  "service_ip": "47.98.110.235",
+  "service_port": 8088,
+  "service_base": "/service/rest",
+  "permission_url": "/Base.svc/action",
+  "business_url": "/DrugControlBusiness.svc/action",
+  "login_path": "views/login",
+  "default_region_code": "420000",
+  "default_region_name": "湖北省"
+}
