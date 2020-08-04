@@ -1,0 +1,26 @@
+<config>
+	<connection>server=127.0.0.1;database='hm_hb_prod';User id=sa;password=sa;Integrated Security=false</connection>
+	<!--重点人员角色ID-->
+	<!-- <ImportantUserRoleID>4</ImportantUserRoleID> -->
+	<ImportantUserRoleLevel>1</ImportantUserRoleLevel>
+	<!--网格员角色ID-->
+	<!-- <AdministratorUserRoleID>3</AdministratorUserRoleID> -->
+	<AdministratorUserRoleLevel>2</AdministratorUserRoleLevel>
+	<!--可登录后台角色等级 大于或等于此值即可登录-->
+	<!-- <LoginAdminRoleLevel>3</LoginAdminRoleLevel> -->
+	<LoginAdminRoleLevel>3</LoginAdminRoleLevel>
+	<!--短信 AppKey-->
+	<MailAppKey>k51hidwqkckib</MailAppKey>
+	<!--短信 AppSecret-->
+	<MailAppSecret>x40p2rOHzZqBUH</MailAppSecret>
+	<!-- 通知短信模板ID -->
+	<MailTemplateID1>9OvJA4ct4zIacaaIAQjWQ6</MailTemplateID1>
+	<!-- 视频 AppKey -->
+	<VideoAppKey>CE2R0DuOlTR8fnGM3CC0DbvZOO4MYceaKpiZgCSq</VideoAppKey>
+	<!-- 视频 AppKey -->
+	<VideoAppSecret>AVgsd7oH6OXgn8OFfq8xqxRzRzS8gl4FGnH6S3kK</VideoAppSecret>
+	<!-- 视频存储空间名称 -->
+	<VideoBucket>whcmhlkj</VideoBucket>
+	<!-- App安装文件地址 -->
+	<AppDownloadPath>E:\download\SQLEXPRADV_x64_CHS.exe</AppDownloadPath>
+</config>
